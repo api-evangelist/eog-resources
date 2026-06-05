@@ -1,4 +1,6 @@
 aid: eog-resources
+tags:
+  - Fortune 500
 url: 
   https://raw.githubusercontent.com/api-evangelist/eog-resources/refs/heads/main/apis.yml
 modified: '2026-04-28'
