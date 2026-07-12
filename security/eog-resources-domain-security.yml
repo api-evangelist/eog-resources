@@ -1,0 +1,12 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: www.eog-resources.com
+  https: false
+domains:
+- domain: eog-resources.com
+  dnssec: true
+  caa: []
+  spf: false
+  dmarc: false
