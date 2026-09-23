@@ -1,7 +1,9 @@
 ---
 title: 'Network Automation Success Story: EOG Resources'
 url: https://www.netbrain.com/resources/eog-resources/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"EOG Resources" press release artificial intelligence'
 position: 3
 source: serpapi-google

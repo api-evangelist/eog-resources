@@ -1,7 +1,9 @@
 ---
 title: EOG Resources, Inc. ($EOG) | TrendSpider Learning Center
 url: https://trendspider.com/learning-center/eog-resources-inc-eog/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"EOG Resources" press release artificial intelligence'
 position: 4
 source: serpapi-google

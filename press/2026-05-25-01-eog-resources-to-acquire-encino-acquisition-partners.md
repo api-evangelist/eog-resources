@@ -1,7 +1,9 @@
 ---
 title: EOG Resources to Acquire Encino Acquisition Partners ...
 url: https://www.prnewswire.com/news-releases/eog-resources-to-acquire-encino-acquisition-partners-from-cpp-investments-and-encino-energy-strengthening-premier-utica-asset-increases-regular-dividend-5-302469370.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"EOG Resources" press release artificial intelligence'
 position: 1
 source: serpapi-google
